@@ -1,0 +1,175 @@
+@charset "utf-8";
+
+/* @media only screen and (min-width:XXXpx)
+{
+	
+} 响应式设计*/
+
+body{
+
+	background-image:url(../img/bj.png) ;
+	background-size:cover ;
+	background-repeat: no-repeat ;
+	margin:0px ;
+
+}
+.T1{
+	position:absolute;
+	width:15%;
+	TOP:50%;
+	left:18%;
+}
+
+.T2{
+	position:absolute;
+	width:15%;
+	TOP:100%;
+	right:18%;
+}
+
+.T3{
+	position:absolute;
+	width:15%;
+	TOP:150%;
+	left:18%;
+}
+
+.T4{
+	position:absolute;
+	width:15%;
+	TOP:200%;
+	right:18%;
+}
+
+.T5{
+	position:absolute;
+	width:15%;
+	TOP:250%;
+	left:18%;
+}
+
+.T6{
+	position:absolute;
+	width:15%;
+	TOP:300%;
+	right:18%;
+}
+
+.T7{
+	position:absolute;
+	width:15%;
+	TOP:350%;
+	left:18%;
+}
+
+.JS1{
+	position:absolute;
+	left:35%;
+	top:65%;
+	font-size:20px ;
+	font-family:楷体;
+	font-weight:bold;
+}
+
+.JS2{
+	position:absolute;
+	left:25%;
+	top:115%;
+	font-size:20px ;
+	font-family:楷体;
+	font-weight:bold;
+}
+
+.JS3{
+	position:absolute;
+	left:35%;
+	top:170%;
+	font-size:20px ;
+	font-family:楷体;
+	font-weight:bold;
+}
+
+.JS4{
+	position:absolute;
+	left:28%;
+	top:220%;
+	font-size:20px ;
+	font-family:楷体;
+	font-weight:bold;
+}
+
+.JS5{
+	position:absolute;
+	left:35%;
+	top:265%;
+	font-size:20px ;
+	font-family:楷体;
+	font-weight:bold;
+}
+
+.JS6{
+	position:absolute;
+	left:30%;
+	top:315%;
+	font-size:20px ;
+	font-family:楷体;
+	font-weight:bold;
+}
+
+.JS7{
+	position:absolute;
+	left:35%;
+	top:365%;
+	font-size:20px ;
+	font-family:楷体;
+	font-weight:bold;
+}
+
+.Z1{
+	position:absolute;
+	top:35%;
+	left:35%;
+	width:30%;
+}
+
+.Z2{
+	position:absolute;
+	top:85%;
+	left:35%;
+	width:30%;
+}
+
+.Z3{
+	position:absolute;
+	top:140%;
+	left:35%;
+	width:30%;
+}
+
+.Z4{
+	position:absolute;
+	top:190%;
+	left:35%;
+	width:30%;
+}
+
+.Z5{
+	position:absolute;
+	top:235%;
+	left:35%;
+	width:30%;
+}
+
+.Z6{
+	position:absolute;
+	top:285%;
+	left:35%;
+	width:30%;
+}
+
+.Z7{
+	position:absolute;
+	top:335%;
+	left:35%;
+	width:30%;
+}

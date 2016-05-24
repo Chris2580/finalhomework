@@ -1,0 +1,213 @@
+@charset "utf-8";
+
+/* @media only screen and (min-width:1280px) */
+
+body{
+
+	background-image:url(../img/bj.png) ;
+	background-size:cover ;
+	background-repeat: no-repeat ;
+	margin:0px ;
+
+}
+.BT1{
+	position:absolute ;
+	margin-top: 12% ;
+	left: 25% ;
+	width:50%;
+	
+}
+
+.BT2{
+	position:relative;
+	margin-top: 35% ;
+	left: 35% ;
+	width: 30% ;
+
+}
+
+img.MY{
+	position:absolute ;
+	margin-top:25% ;
+	left: 43% ;
+	width:15% ;
+	
+}
+
+img.qiu{
+	position:fixed;
+	width:20%;
+	margin-top:27%;
+	left:41%;	
+	z-index: 1;
+	
+	
+}	
+.XBT1{
+	position:absolute;
+	width:40%;
+	top:90%;
+	left:30%;
+}
+img.shuimen{
+	position:absolute;
+	margin-top:13%;
+	left:27.5%;
+	width: 50% ;
+	
+}
+
+img.zilaiye{
+	position:absolute;
+	margin-top:57%;
+	left:25%;
+	width: 45% ;
+	
+}
+
+.NR{
+	position:absolute;
+	margin-top:100%;	
+	width: 48%;
+	left:26%;
+	z-index:6 ;
+
+}
+
+.NR1{
+	position:absolute;	
+	margin-top:15.5%;
+	left:15.3%;
+	width:68%;
+}
+
+.ZT{
+	position:absolute;		
+	margin-top:37%;
+	right:15%;
+	width:25%;
+}
+img.mingren{
+	position:absolute;
+	margin-top:90%;
+	left:37%;
+	width: 27% ;
+	
+}
+
+img.boren{
+	position:absolute;
+	margin-top:120%;
+	left:0%;
+	width: 100% ;
+}
+
+#song{
+	position:fixed;
+	z-index:10;
+	top: 0px ;
+	right: 0px ;
+	width: 100% ;
+}
+
+.one{
+	position: absolute ;
+	margin-top:51% ;
+	margin-left:25% ;
+	width:50%;
+	z-index: 999;
+}
+.one1{
+	width:100%
+}
+
+video{
+	z-index: 3 ;
+}
+
+.JZ1{
+	position:absolute;
+	width:8%;
+	margin-top:95% ;
+	left:20%;
+}
+
+.JZ2{
+	position:absolute;
+	width:8%;
+	margin-top:95% ;
+	right:20%;
+}
+
+.XBT3{
+	position:absolute;
+	width:20%;
+	margin-top:97% ;
+	left:25%;
+	z-index:-1;
+}
+
+.XBT4{
+	position:absolute;	
+	width:20%;
+	margin-top:97% ;
+	right:25%;	
+	z-index:-1;
+}
+
+.XBT2{
+	position:absolute;
+	width:35%;
+	margin-top:40%;
+	left:30%;
+	
+}
+
+.XBT5{
+	position:absolute;
+	width:35%;
+	margin-top:87%;
+	left:30%;	
+	
+}
+
+.SPBJ{
+	position:absolute;
+	width:68%;
+	margin-top:40%;
+	left:15%;
+	z-index:6
+	
+}
+
+.SPBJ1{
+	position:absolute;
+	width:60%;
+	margin-top:97%;
+	left:19%;
+	z-index:6
+	
+}
+
+.ZH1{
+	position:absolute;
+	margin-top:90%;
+	left:20%;
+	width: 30% ;
+}
+
+.ZH2{
+	position:absolute;
+	margin-top:83%;
+	right:15%;
+	width:40% ;
+}
+
+.brz{
+	position:absolute;
+	margin-top:145%;
+	left:31%;
+	width: 40% ;
+}
+
+
